@@ -1,0 +1,5 @@
+name    			= "react18"
+type	    		= "webpack"
+account_id	    	= "6e907741d814ab04855bd2671d674d6f"
+compatibility_date	= "2021-11-16"
+workers_dev		    = true
